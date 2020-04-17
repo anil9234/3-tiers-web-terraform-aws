@@ -1,2 +1,2 @@
-namespace = "barry-demo-project"
+namespace = "my-cool-project"
 region    = "us-west-2"
